@@ -3,6 +3,11 @@ import { AppConfig } from 'blockstack'
 export const appConfig = new AppConfig(['store_write', 'publish_data'])
 export const ANIMALS = [
   {
+    id: 'pikachu',
+    name: 'Pikachu',
+    superpower: 'Electrical Engineer.'
+  },
+  {
     id: 'cat',
     name: 'Cat',
     superpower: 'Has 9 lives.'
@@ -19,6 +24,11 @@ export const ANIMALS = [
   }]
 
 export const TERRITORIES = [
+  {
+    id: 'hoenn',
+    name: 'Hoenn region',
+    superpower: 'Gotta catch\'em all!'
+  },
   {
     id: 'forest',
     name: 'Forest',
