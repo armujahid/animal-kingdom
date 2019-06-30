@@ -1,9 +1,9 @@
 {
-  "short_name": "Pokemon Kingdom",
+  "short_name": "PokemonKingdom",
   "name": "Pokemon Kingdom",
   "icons": [
     {
-      "src": "https://helloblockstack.com/icon-192x192.png",
+      "src": "https://pokemonkingdom.armujahid.me/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
